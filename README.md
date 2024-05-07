@@ -21,6 +21,5 @@ On average, each booster (there are 4 of them in a boost) get 18% of the total p
 200k gold in WoW is roughly 20€. At its prime, this bot helped generating about 120M+ gold per month, aka about 12.000€. 10% of that total can be counted has pure profits, the 90 other percent are redistributed to the actors of the community.
 
 This bot runned for about 2,5 years before the community it was served on was shut down by Blizzard. It helped generating about 3 billions gold, 300M profits, which could probably be traded for about 20k€.
-For legal purposes, let's obviously add that :  
 *As the community has no interest in doing RMT (Real Money Transaction, aka selling real gold for €), no one actually gain € from this bot.
 It just helped making a lot of people very rich in one (if not the) most popular multiplayer role-playing game.*   
